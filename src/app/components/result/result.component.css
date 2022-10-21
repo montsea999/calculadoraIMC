@@ -1,0 +1,15 @@
+
+.fondoItem{
+  height: 275px;
+  }
+  .estiloNumero{
+  font: size 250px;
+  font-weight:800;
+  padding:25px;
+  }
+  .card{ filter:blur(0.1px);}
+
+.interpretacion{
+  opacity:.5;
+}
+
